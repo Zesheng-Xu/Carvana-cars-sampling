@@ -14,7 +14,7 @@ re
 How to use: 
 1. Run main.exe 
 2. Select a fodler destination where files to be stored
-3.A notification will pop up when finished, with run time and folder location
+3. A notification will pop up when finished, with run time and folder location
 
 It will automatically create a new set of cars to track if the folder is empty
 if there is already an existing set of cars stored in the folder, it will automatically open and track the existing set. 
